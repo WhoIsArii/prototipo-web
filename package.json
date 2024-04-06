@@ -1,0 +1,13 @@
+{
+  "name": "prototipos-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto para posteriormente presentar en la escuela como un prototipo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: ningun test especificado\" && exit 1"
+  },
+  "author": "carlos e ivan",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
