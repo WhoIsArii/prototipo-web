@@ -9,5 +9,6 @@
   "author": "carlos e ivan",
   "license": "ISC",
   "dependencies": {
+    "three" : "0.163.0"
   }
 }

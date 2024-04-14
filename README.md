@@ -37,6 +37,10 @@
 **Nota: La zona caliente claramente desaparecera en caso de 
 que no cumpla ningun factor mencionado anteriormente**
 
+  <h2>Mapa 3D</h2>
+  Se usara una libreria especializada en la creacion <br>
+  de modelos 3D, se llama threejs, su integracion sera fundamental <br>
+  pues sin el seria complicaria mucho la creacion del mapa 3D
 
 --- 
 ### Estructura del Sitio Web
