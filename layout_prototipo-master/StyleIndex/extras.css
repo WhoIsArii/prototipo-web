@@ -1,0 +1,45 @@
+*{  
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI'; 
+}
+*:hover{ 
+    border: 0px solid red; 
+}
+ #formulario{
+
+    font-size: 1.5rem;
+    font-family: 'Segoe UI';
+    
+    
+}
+
+ #button{
+    width: 28%;
+    height: 100%;
+    background-color: black;
+    border: 0px;
+    border-radius: 0.2em;
+    color: white;
+    font-size: 11pt;
+    grid-column: 2;
+    grid-row: 4;
+    margin-top: 2vh;
+    transition: 0.5s transform, 0.5s margin-left;
+}
+ #button:hover{
+    cursor: pointer;
+    margin-left: 1vh;
+    transform: scale(1.05);
+}
+
+#borde{
+
+    margin-bottom: 1rem;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 50px auto ;
+    width: 500px;
+    border-radius: 40px;
+}
+
